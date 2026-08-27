@@ -141,7 +141,7 @@
 
 ## Extensions
 
-* <b><code> 37044⭐</code></b> <b><code>  4582🍴</code></b> [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,068 | 🐛 367 | 🌐 TypeScript | 📅 2026-08-27) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+* <b><code> 37044⭐</code></b> <b><code>  4582🍴</code></b> [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,069 | 🐛 367 | 🌐 TypeScript | 📅 2026-08-27) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 * <b><code> 28343⭐</code></b> <b><code>  4045🍴</code></b> [next-auth](https://github.com/iaincollins/next-auth) ⭐ 28,345 | 🐛 598 | 🌐 TypeScript | 📅 2026-07-22) - Easy authentication for Next.js and Serverless
 * <b><code> 26415⭐</code></b> <b><code>  5025🍴</code></b> [Vercel AI SDK](https://github.com/vercel/ai) ⭐ 26,437 | 🐛 1,719 | 🌐 TypeScript | 📅 2026-08-27) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 * <b><code>  8507⭐</code></b> <b><code>   455🍴</code></b> [Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,507 | 🐛 7 | 🌐 TypeScript | 📅 2026-07-29) - SEO made easy for Next.js

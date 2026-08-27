@@ -12,7 +12,7 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T12:16:14Z",
             "owner": "vercel",
             "repo": "next.js",
             "stars": 141959
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 70107786,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T11:00:21Z",
+            "last_commit": "2026-08-27T12:16:14Z",
             "owner": "vercel",
             "repo": "next.js",
             "stars": 141959
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-27T12:10:58Z",
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 37068
+            "stars": 37069
           }
         },
         {
@@ -1721,7 +1721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:39.955Z",
+    "last_updated": "2026-08-27T12:18:03.469Z",
     "original_repository_info": {
       "archived": false,
       "id": 456133710,
