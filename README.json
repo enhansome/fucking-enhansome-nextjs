@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "142393⭐ 32591🍴 GitHub",
+          "title": "142415⭐ 32673🍴 GitHub",
           "description": ")",
           "children": [],
           "repo_info": {
@@ -15,11 +15,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T06:36:54Z",
-            "open_issues": 3470,
+            "last_commit": "2026-09-24T07:05:54Z",
+            "open_issues": 3466,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142413,
+            "stars": 142416,
             "topics": [
               "blog",
               "browser",
@@ -51,11 +51,11 @@
             "id": 70107786,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T06:36:54Z",
-            "open_issues": 3470,
+            "last_commit": "2026-09-24T07:05:54Z",
+            "open_issues": 3466,
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 142413,
+            "stars": 142416,
             "topics": [
               "blog",
               "browser",
@@ -83,7 +83,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "32119⭐ 3032🍴 next-postgres-graphql",
+          "title": "32118⭐ 3033🍴 next-postgres-graphql",
           "description": ") - Create SSR Next.js websites using GraphQL with Postgres (Next.js, Postgres, GraphQL)",
           "children": [],
           "repo_info": {
@@ -94,7 +94,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-21T17:48:10Z",
-            "open_issues": 2373,
+            "open_issues": 2374,
             "owner": "hasura",
             "repo": "graphql-engine",
             "stars": 32118,
@@ -120,7 +120,7 @@
         },
         {
           "node_type": "item",
-          "title": "7463⭐ 1959🍴 Next.js Enterprise",
+          "title": "7464⭐ 1957🍴 Next.js Enterprise",
           "description": ") - enterprise-grade boilerplate for high-performance, maintainable apps. Built with Tailwind CSS, RadixUI, TypeScript and more.",
           "children": [],
           "repo_info": {
@@ -162,7 +162,7 @@
         },
         {
           "node_type": "item",
-          "title": "4432⭐ 253🍴 Nextron",
+          "title": "4431⭐ 252🍴 Nextron",
           "description": ") - An Electron with Next.js apps generator ⚡",
           "children": [],
           "repo_info": {
@@ -190,7 +190,7 @@
         },
         {
           "node_type": "item",
-          "title": "2896⭐ 156🍴 superplate",
+          "title": "2897⭐ 156🍴 superplate",
           "description": ") - superplate creates Next.js app in seconds with TypeScript, styled-components, SWR, Storybook, and 35+ plugin.",
           "children": [],
           "repo_info": {
@@ -264,11 +264,11 @@
             "id": 227635919,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T15:16:32Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-23T07:25:07Z",
+            "open_issues": 21,
             "owner": "BearStudio",
             "repo": "start-ui-web",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "boilerplate",
               "hacktoberfest",
@@ -477,7 +477,7 @@
         },
         {
           "node_type": "item",
-          "title": "496⭐ 88🍴 Devii",
+          "title": "496⭐ 87🍴 Devii",
           "description": ") - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.",
           "children": [],
           "repo_info": {
@@ -505,7 +505,7 @@
         },
         {
           "node_type": "item",
-          "title": "471⭐ 194🍴 Next.js and Netlify Blogging Template",
+          "title": "472⭐ 194🍴 Next.js and Netlify Blogging Template",
           "description": ") - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.",
           "children": [],
           "repo_info": {
@@ -519,7 +519,7 @@
             "open_issues": 25,
             "owner": "wutali",
             "repo": "nextjs-netlify-blog-template",
-            "stars": 471,
+            "stars": 472,
             "topics": [
               "boilerplate",
               "cms",
@@ -1454,36 +1454,6 @@
         },
         {
           "node_type": "item",
-          "title": "3⭐ 1🍴 Ultimate Blog Editor",
-          "description": ") - An open-source Markdown and Lexical-based blog editor with Supabase sync, MDX rendering, draft/post and media management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The editor that I am using to write my technical articles, glad to share the advanced capabilities of it with everyone. ",
-            "homepage": null,
-            "id": 1343894733,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-18T02:41:11Z",
-            "open_issues": 0,
-            "owner": "Masculinn",
-            "repo": "blog-editor",
-            "stars": 3,
-            "topics": [
-              "cloud",
-              "lexical-editor",
-              "markdown-editor",
-              "mdx-blog",
-              "nextjs",
-              "reactjs",
-              "supabase",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-09-22T07:14:18.509Z"
-        },
-        {
-          "node_type": "item",
           "title": "2⭐ 0🍴 Kaiforge Lite",
           "description": ") - Free admin dashboard template with Next.js 14, Tailwind CSS, TypeScript, dark/light mode, and 5 ready-to-use pages. MIT licensed. 🌎 Demo",
           "children": [],
@@ -1560,7 +1530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "37457⭐ 4647🍴 CopilotKit",
+          "title": "37519⭐ 4656🍴 CopilotKit",
           "description": ") - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.",
           "children": [],
           "repo_info": {
@@ -1570,11 +1540,11 @@
             "id": 655515393,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T01:06:20Z",
-            "open_issues": 282,
+            "last_commit": "2026-09-24T06:53:54Z",
+            "open_issues": 293,
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 37487,
+            "stars": 37521,
             "topics": [
               "agent",
               "agent-native",
@@ -1602,7 +1572,7 @@
         },
         {
           "node_type": "item",
-          "title": "28369⭐ 4041🍴 next-auth",
+          "title": "28372⭐ 4040🍴 next-auth",
           "description": ") - Easy authentication for Next.js and Serverless",
           "children": [],
           "repo_info": {
@@ -1642,7 +1612,7 @@
         },
         {
           "node_type": "item",
-          "title": "26889⭐ 5169🍴 Vercel AI SDK",
+          "title": "26922⭐ 5180🍴 Vercel AI SDK",
           "description": ") - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.",
           "children": [],
           "repo_info": {
@@ -1652,11 +1622,11 @@
             "id": 644461337,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T07:09:50Z",
-            "open_issues": 1496,
+            "last_commit": "2026-09-24T05:15:09Z",
+            "open_issues": 1463,
             "owner": "vercel",
             "repo": "ai",
-            "stars": 26904,
+            "stars": 26922,
             "topics": [
               "anthropic",
               "artificial-intelligence",
@@ -1679,7 +1649,7 @@
         },
         {
           "node_type": "item",
-          "title": "8515⭐ 458🍴 Next SEO",
+          "title": "8516⭐ 459🍴 Next SEO",
           "description": ") - SEO made easy for Next.js",
           "children": [],
           "repo_info": {
@@ -1690,10 +1660,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-29T19:47:06Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8515,
+            "stars": 8516,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -1708,7 +1678,7 @@
         },
         {
           "node_type": "item",
-          "title": "4458⭐ 445🍴 Serverless Framework plugin for Next.js",
+          "title": "4459⭐ 445🍴 Serverless Framework plugin for Next.js",
           "description": ") - Deploy serverless applications with ease.",
           "children": [],
           "repo_info": {
@@ -1741,7 +1711,7 @@
         },
         {
           "node_type": "item",
-          "title": "4144⭐ 255🍴 next-iron-session",
+          "title": "4145⭐ 255🍴 next-iron-session",
           "description": ") - Next.js stateless session utility using signed and encrypted cookies to store data",
           "children": [],
           "repo_info": {
@@ -1751,7 +1721,7 @@
             "id": 245132958,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T19:20:57Z",
+            "last_commit": "2026-09-23T08:08:24Z",
             "open_issues": 1,
             "owner": "vvo",
             "repo": "iron-session",
@@ -1771,7 +1741,7 @@
         },
         {
           "node_type": "item",
-          "title": "4090⭐ 338🍴 Next PWA",
+          "title": "4090⭐ 339🍴 Next PWA",
           "description": ") - Zero config PWA plugin for Next.js with workbox",
           "children": [],
           "repo_info": {
@@ -1801,7 +1771,7 @@
         },
         {
           "node_type": "item",
-          "title": "3747⭐ 140🍴 Next-Sitemap",
+          "title": "3745⭐ 141🍴 Next-Sitemap",
           "description": ") - Sitemap generator for Next.js",
           "children": [],
           "repo_info": {
@@ -1815,7 +1785,7 @@
             "open_issues": 8,
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3744,
+            "stars": 3745,
             "topics": [
               "next-sitemap",
               "nextjs",
@@ -1830,7 +1800,7 @@
         },
         {
           "node_type": "item",
-          "title": "2461⭐ 225🍴 Next Routes",
+          "title": "2462⭐ 225🍴 Next Routes",
           "description": ") - Universal named routes for Next.js.",
           "children": [],
           "repo_info": {
@@ -1993,7 +1963,7 @@
         },
         {
           "node_type": "item",
-          "title": "703⭐ 52🍴 Frontman",
+          "title": "707⭐ 51🍴 Frontman",
           "description": ") - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.",
           "children": [],
           "repo_info": {
@@ -2007,7 +1977,7 @@
             "open_issues": 247,
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 705,
+            "stars": 707,
             "topics": [
               "agent",
               "ai",
@@ -2239,7 +2209,7 @@
         {
           "node_type": "item",
           "title": "66⭐ 11🍴 Next-Pkg",
-          "description": ") - Extended Next.js server with 24336⭐ 1075🍴 pkg) support.",
+          "description": ") - Extended Next.js server with 24335⭐ 1075🍴 pkg) support.",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2550,7 +2520,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "124348⭐ 10905🍴 shadcn/ui",
+          "title": "124503⭐ 10988🍴 shadcn/ui",
           "description": ") - Beautifully designed components that you can copy and paste into your apps.",
           "children": [],
           "repo_info": {
@@ -2561,10 +2531,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-21T09:05:58Z",
-            "open_issues": 1836,
+            "open_issues": 1840,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 124446,
+            "stars": 124506,
             "topics": [
               "base-ui",
               "components",
@@ -2585,7 +2555,7 @@
         },
         {
           "node_type": "item",
-          "title": "19290⭐ 2744🍴 Taxonomy",
+          "title": "19291⭐ 2743🍴 Taxonomy",
           "description": ") - An example app built using Next.js 13 server components.",
           "children": [],
           "repo_info": {
@@ -2599,7 +2569,7 @@
             "open_issues": 218,
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19292,
+            "stars": 19291,
             "topics": [
               "nextauthjs",
               "nextjs",
@@ -2614,7 +2584,7 @@
         },
         {
           "node_type": "item",
-          "title": "1530⭐ 174🍴 FIM Agent",
+          "title": "1535⭐ 175🍴 FIM Agent",
           "description": ") - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.",
           "children": [],
           "repo_info": {
@@ -2628,7 +2598,7 @@
             "open_issues": 1,
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 1532,
+            "stars": 1535,
             "topics": [
               "ai",
               "ai-agent",
@@ -2704,7 +2674,7 @@
         },
         {
           "node_type": "item",
-          "title": "1267⭐ 258🍴 CourseLit",
+          "title": "1267⭐ 257🍴 CourseLit",
           "description": ") - An open source alternative to Thinkific, Teachable etc.",
           "children": [],
           "repo_info": {
@@ -2714,8 +2684,8 @@
             "id": 199892949,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-20T17:10:19Z",
-            "open_issues": 252,
+            "last_commit": "2026-09-23T19:44:40Z",
+            "open_issues": 251,
             "owner": "codelitdev",
             "repo": "courselit",
             "stars": 1267,
@@ -2933,48 +2903,6 @@
             ]
           },
           "first_seen": "2026-08-28T13:43:52.555Z"
-        },
-        {
-          "node_type": "item",
-          "title": "171⭐ 66🍴 Reely",
-          "description": ") - Movie & TV discovery and tracker on the TMDB API — live-applying filters, ⌘K command palette, watchlist and history, installable PWA. Next.js 16 static export on Cloudflare Workers Static Assets, so Next.js never runs in production. 🌎 Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Reely — a fast, installable (PWA) movie & TV platform to discover, track & stream films and series. Deep live-applying filters, command-palette search, rich detail pages, watchlist & watch history — powered by TMDB, on Next.js 16 + React 19, shipped as a static export on Cloudflare Workers Static Assets.",
-            "homepage": "https://www.reely.space",
-            "id": 686083708,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-23T04:27:21Z",
-            "open_issues": 74,
-            "owner": "Vette1123",
-            "repo": "movies-streaming-platform",
-            "stars": 171,
-            "topics": [
-              "cloudflare",
-              "cloudflare-workers",
-              "framer-motion",
-              "movies",
-              "nextjs",
-              "posthog",
-              "progressive-web-app",
-              "pwa",
-              "radix-ui",
-              "react",
-              "react-19",
-              "react-query",
-              "service-worker",
-              "shadcn-ui",
-              "static-site",
-              "streaming",
-              "tailwindcss",
-              "tmdb",
-              "tv-shows",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-09-02T06:45:54.652Z"
         },
         {
           "node_type": "item",
@@ -3360,69 +3288,6 @@
         },
         {
           "node_type": "item",
-          "title": "1⭐ 0🍴 DevScratchpad",
-          "description": ") - Privacy-first developer scratchpad & utility suite (19+ tools) with Monaco editor and zero-server transmission. Built with Next.js 16 (App Router, Turbopack, SSG), React 19, and Tailwind CSS v4. 🌎 Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://devscratchpad.tech",
-            "id": 1347195570,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-20T13:32:22Z",
-            "open_issues": 2,
-            "owner": "Saad-web-spec",
-            "repo": "DevScratchPad",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:43:52.555Z"
-        },
-        {
-          "node_type": "item",
-          "title": "0⭐ 0🍴 AI Video Prompt Cheatsheet",
-          "description": ") - Camera-movement prompt reference for AI video generation: shot types and motions with copy-ready prompts, one-page zh/en. Static export on Cloudflare Workers, no server. 🌎 Demo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI 视频运镜提示词速查表 — 25 个运镜案例视频 + 大白话教学 + 一键复制（视觉优先）",
-            "homepage": null,
-            "id": 1341369273,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-09-12T22:40:06Z",
-            "open_issues": 0,
-            "owner": "the-beating-light-of-the-nail",
-            "repo": "ai-video-prompt-cheatsheet",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-09-12T06:49:00.023Z"
-        },
-        {
-          "node_type": "item",
-          "title": "0⭐ 0🍴 FileFlex",
-          "description": ") - Open-source, browser-only file converter & PDF editor built with Next.js 14, Tailwind CSS, and WASM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": "https://fileflexhub.vercel.app",
-            "id": 1274427052,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-08-24T19:05:02Z",
-            "open_issues": 0,
-            "owner": "armor229-ux",
-            "repo": "File-Flex",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:43:52.555Z"
-        },
-        {
-          "node_type": "item",
           "title": "0⭐ 0🍴 DevToolKit",
           "description": ") - Free online developer tools built with Next.js — JSON Formatter, JWT Decoder, Regex Tester, Base64/URL Encoder, Hash Generator.",
           "children": [],
@@ -3457,88 +3322,10 @@
         }
       ],
       "title": "Apps"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "10353⭐ 607🍴 The Concise TypeScript Book",
-          "description": ") - A free and open-source reference guide for TypeScript fundamentals and practical patterns, designed for use with Next.js and React.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.",
-            "homepage": "https://gibbok.github.io/typescript-book/",
-            "id": 532590625,
-            "language": "TypeScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-23T05:08:18Z",
-            "open_issues": 3,
-            "owner": "gibbok",
-            "repo": "typescript-book",
-            "stars": 10354,
-            "topics": [
-              "book",
-              "free",
-              "javascript",
-              "javascript-book",
-              "learn-typescript",
-              "typescript",
-              "typescript-book",
-              "typescript-guide",
-              "typescript-guidebook",
-              "typescript-language",
-              "typescript-learning",
-              "typescript-tutorials"
-            ]
-          },
-          "first_seen": "2026-09-12T06:49:00.023Z"
-        }
-      ],
-      "title": "Books"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "11106⭐ 1172🍴 unicodeveloper/awesome-nextjs",
-          "description": ")",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) ",
-            "homepage": null,
-            "id": 75291705,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-22T07:49:57Z",
-            "open_issues": 273,
-            "owner": "unicodeveloper",
-            "repo": "awesome-nextjs",
-            "stars": 11106,
-            "topics": [
-              "awesome-list",
-              "framework",
-              "isomorphic",
-              "javascript",
-              "nextjs",
-              "reactjs",
-              "routing",
-              "server-side-rendering",
-              "tutorials",
-              "universal"
-            ]
-          },
-          "first_seen": "2026-09-12T06:49:00.023Z"
-        }
-      ],
-      "title": "Source"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T07:16:32.947Z",
+    "last_updated": "2026-09-24T07:06:40.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "📔 📚 A curated list of awesome resources : books, videos, articles about using Next.js  With repository stars⭐ and forks🍴",
@@ -3546,7 +3333,7 @@
       "id": 456133710,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-22T06:21:30Z",
+      "last_commit": "2026-09-24T06:04:41Z",
       "open_issues": 5,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-nextjs",
@@ -3565,7 +3352,7 @@
         "reactjs"
       ]
     },
-    "original_repository_sha": "6fca65e11d6fbf1d7554c26a8985d13bcbe7a0fb",
+    "original_repository_sha": "3ee300834f470a906344d41cfdc1390f17fd2d6c",
     "enhanced_repository": "enhansome/fucking-enhansome-nextjs",
     "enhanced_repository_description": null,
     "title": "Awesome Next.js with stars"
