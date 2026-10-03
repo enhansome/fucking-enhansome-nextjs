@@ -1,12 +1,12 @@
 # Awesome Next.js with stars
 
-<b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03)
+<b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://github.com/vercel/next.js) ⭐ 143,027 | 🐛 3,530 | 🌐 JavaScript | 📅 2026-10-03)
 
 > Curated list of resources: books, videos, articles about using Next.js.
 
-<b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [Next.js](https://github.com/vercel/next.js) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03): The React Framework.
+<b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [Next.js](https://github.com/vercel/next.js) ⭐ 143,027 | 🐛 3,530 | 🌐 JavaScript | 📅 2026-10-03): The React Framework.
 
-*List inspired by the <b><code>513528⭐</code></b> <b><code> 37232🍴</code></b> [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02) list thing. You might also like <b><code>   815⭐</code></b> <b><code>   146🍴</code></b> [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29).*
+*List inspired by the <b><code>513528⭐</code></b> <b><code> 37232🍴</code></b> [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,843 | 🐛 106 | 📅 2026-09-02) list thing. You might also like <b><code>   815⭐</code></b> <b><code>   146🍴</code></b> [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd) ⭐ 815 | 🐛 3 | 📅 2022-01-29).*
 
 ## Contents
 
@@ -28,8 +28,8 @@
 
 ## Community
 
-* <b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [GitHub](https://github.com/vercel/next.js) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03)
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions) ⭐ 143,020 | 🐛 3,532 | 🌐 JavaScript | 📅 2026-10-03)
+* <b><code>142984⭐</code></b> <b><code> 33597🍴</code></b> [GitHub](https://github.com/vercel/next.js) ⭐ 143,027 | 🐛 3,530 | 🌐 JavaScript | 📅 2026-10-03)
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitHub discussions for Next.js](https://github.com/vercel/next.js/discussions) ⭐ 143,027 | 🐛 3,530 | 🌐 JavaScript | 📅 2026-10-03)
 * 🌎 [Vercel Community](vercel.community/)
 
 ## Essentials
@@ -141,9 +141,9 @@
 
 ## Extensions
 
-* <b><code> 37673⭐</code></b> <b><code>  4680🍴</code></b> [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,686 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-03) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
+* <b><code> 37673⭐</code></b> <b><code>  4680🍴</code></b> [CopilotKit](https://github.com/CopilotKit/CopilotKit) ⭐ 37,689 | 🐛 276 | 🌐 TypeScript | 📅 2026-10-03) - React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents in your Next.js apps.
 * <b><code> 28371⭐</code></b> <b><code>  4036🍴</code></b> [next-auth](https://github.com/iaincollins/next-auth) ⭐ 28,369 | 🐛 601 | 🌐 TypeScript | 📅 2026-07-22) - Easy authentication for Next.js and Serverless
-* <b><code> 27087⭐</code></b> <b><code>  5240🍴</code></b> [Vercel AI SDK](https://github.com/vercel/ai) ⭐ 27,091 | 🐛 1,377 | 🌐 TypeScript | 📅 2026-10-03) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
+* <b><code> 27087⭐</code></b> <b><code>  5240🍴</code></b> [Vercel AI SDK](https://github.com/vercel/ai) ⭐ 27,091 | 🐛 1,378 | 🌐 TypeScript | 📅 2026-10-03) - The AI Toolkit for TypeScript. Build AI-powered applications with React, Next.js, Vue, Svelte, and Node.js.
 * <b><code>  8519⭐</code></b> <b><code>   463🍴</code></b> [Next SEO](https://github.com/garmeeh/next-seo) ⭐ 8,519 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-29) - SEO made easy for Next.js
 * <b><code>  4459⭐</code></b> <b><code>   444🍴</code></b> [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) ⚠️ Archived) - Deploy serverless applications with ease.
 * <b><code>  4143⭐</code></b> <b><code>   255🍴</code></b> [next-iron-session](https://github.com/vvo/next-iron-session) ⭐ 4,142 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23) - Next.js stateless session utility using signed and encrypted cookies to store data
@@ -155,7 +155,7 @@
 * <b><code>  1127⭐</code></b> <b><code>    83🍴</code></b> [next-transpile-modules](https://github.com/martpie/next-transpile-modules) ⚠️ Archived) - Next.js plugin to transpile code from node\_modules. Useful for monorepos.
 * <b><code>   887⭐</code></b> <b><code>    33🍴</code></b> [Nextein](https://github.com/elmasse/nextein) ⚠️ Archived) - A static site generator based in Next.js.
 * <b><code>   762⭐</code></b> <b><code>    76🍴</code></b> [Next With Apollo](https://github.com/lfades/next-with-apollo) ⭐ 762 | 🐛 46 | 🌐 TypeScript | 📅 2024-02-24) - Apollo Graphql integration for Next.js
-* <b><code>   709⭐</code></b> <b><code>    51🍴</code></b> [Frontman](https://github.com/frontman-ai/frontman) ⭐ 708 | 🐛 237 | 🌐 ReScript | 📅 2026-10-02) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
+* <b><code>   709⭐</code></b> <b><code>    51🍴</code></b> [Frontman](https://github.com/frontman-ai/frontman) ⭐ 709 | 🐛 237 | 🌐 ReScript | 📅 2026-10-02) - An open-source AI coding agent that lives in your browser, enabling visual element selection and plain-English code edits with hot reload.
 * <b><code>   429⭐</code></b> <b><code>    31🍴</code></b> [next-api-decorators](https://github.com/storyofams/next-api-decorators) ⭐ 429 | 🐛 27 | 🌐 TypeScript | 📅 2024-04-05) - Decorators to create typed Next.js API routes, with easy request validation and transformation.
 * <b><code>   359⭐</code></b> <b><code>    24🍴</code></b> [next-session](https://github.com/hoangvvo/next-session) ⭐ 359 | 🐛 27 | 🌐 TypeScript | 📅 2024-05-23) - Session middleware for Next.js
 * <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [next-img](https://github.com/humaans/next-img/) ⭐ 277 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-24) - a plugin for embedding optimized images with ease.
@@ -182,9 +182,9 @@
 
 ## Apps
 
-* <b><code>124994⭐</code></b> <b><code> 11853🍴</code></b> [shadcn/ui](https://github.com/shadcn/ui) ⭐ 125,012 | 🐛 1,817 | 🌐 TypeScript | 📅 2026-10-02) - Beautifully designed components that you can copy and paste into your apps.
+* <b><code>124994⭐</code></b> <b><code> 11853🍴</code></b> [shadcn/ui](https://github.com/shadcn/ui) ⭐ 125,017 | 🐛 1,818 | 🌐 TypeScript | 📅 2026-10-02) - Beautifully designed components that you can copy and paste into your apps.
 * <b><code> 19292⭐</code></b> <b><code>  2746🍴</code></b> [Taxonomy](https://github.com/shadcn/taxonomy) ⭐ 19,290 | 🐛 218 | 🌐 TypeScript | 📅 2026-04-20) - An example app built using Next.js 13 server components.
-* <b><code>  1555⭐</code></b> <b><code>   178🍴</code></b> [FIM Agent](https://github.com/fim-ai/fim-agent) ⭐ 1,557 | 🐛 1 | 🌐 Python | 📅 2026-10-01) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
+* <b><code>  1555⭐</code></b> <b><code>   178🍴</code></b> [FIM Agent](https://github.com/fim-ai/fim-agent) ⭐ 1,558 | 🐛 1 | 🌐 Python | 📅 2026-10-01) - AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.
 * <b><code>  1423⭐</code></b> <b><code>   214🍴</code></b> [Rauchg Blog](https://github.com/rauchg/blog) ⭐ 1,423 | 🐛 14 | 🌐 MDX | 📅 2026-06-10) - Blog built by a Next.js core maintainer.
 * <b><code>  1343⭐</code></b> <b><code>   189🍴</code></b> [Dashboard](https://github.com/danielbayerlein/dashboard) ⭐ 1,343 | 🐛 23 | 🌐 JavaScript | 📅 2023-05-03) - Create your own team dashboard with custom widgets.
 * <b><code>  1270⭐</code></b> <b><code>   260🍴</code></b> [CourseLit](https://github.com/codelit/courselit) ⭐ 1,269 | 🐛 252 | 🌐 TypeScript | 📅 2026-09-30) - An open source alternative to Thinkific, Teachable etc.
@@ -294,7 +294,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 
 ## Source
 
-<b><code> 11106⭐</code></b> <b><code>  1187🍴</code></b> [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,105 | 🐛 289 | 📅 2026-09-22)
+<b><code> 11106⭐</code></b> <b><code>  1187🍴</code></b> [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) ⭐ 11,105 | 🐛 290 | 📅 2026-09-22)
 
 ***
 
